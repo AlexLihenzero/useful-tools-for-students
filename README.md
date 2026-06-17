@@ -28,7 +28,6 @@
 <!-- [Team Member 1 Name] will write this section -->
 
 ## Notion
-## Notion
 
 **Notion** is an all-in-one productivity and note-taking platform that helps students organize their academic and personal work. It combines notes, task management, databases, calendars, and collaboration tools in a single workspace, making it easier to keep track of assignments, projects, and study materials.
 
