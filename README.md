@@ -1,6 +1,12 @@
 # Useful Tools for Students
 
-A collaborative guide by [list all team member names].
+## Contributors
+
+- Alex Lihenzero
+- John Doe
+- Mary Wanjiku
+- Peter Kimani
+- Grace Njeri
 
 ## Table of Contents
 - [Introduction](#introduction)
