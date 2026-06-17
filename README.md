@@ -3,10 +3,10 @@
 ## Contributors
 
 - Alex Lihenzero
-- John Doe
-- Mary Wanjiku
-- Peter Kimani
-- Grace Njeri
+- John Kariuki
+- Ricky Littons
+- Justicetorian-dev
+- Victor881-tech
 
 ## Table of Contents
 - [Introduction](#introduction)
