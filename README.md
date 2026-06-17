@@ -1,3 +1,4 @@
+
 # Useful Tools for Students
 
 ## Contributors
@@ -16,6 +17,12 @@
 
 ## Introduction
  Technology plays an important role in education today. There are many tools available that help students learn, collaborate, and complete assignments more effectively. This guide highlights some of the most useful tools for students.
+
+ ### Benefits of Students Tools
+ - Save time on assighnments
+ - Increase productivity
+ - Improves organization
+ - Enhence collaboration
 
 ## VS Code
 <!-- [Team Member 1 Name] will write this section -->
