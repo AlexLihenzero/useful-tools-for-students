@@ -62,7 +62,6 @@ Notion is a valuable tool for students because it combines note-taking, organiza
 
 ## chatGPT
 <!-- [Team Member 4 Name] will write this section -->
-## ChatGPT
 
 **ChatGPT** is an AI-powered *conversational assistant* developed by OpenAI that helps students brainstorm ideas, explain complex biological concepts, and debug programming code in real-time. 
 
