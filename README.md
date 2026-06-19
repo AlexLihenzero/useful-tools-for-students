@@ -23,7 +23,6 @@
  - Increase productivity.
  - Improve organization.
  - Enhance collaboration.
- 
 
 ## VS Code
 <!-- [Team Member 1 Name] will write this section -->
