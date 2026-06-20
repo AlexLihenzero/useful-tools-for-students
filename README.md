@@ -65,7 +65,6 @@ Notion is a valuable tool for students because it combines note-taking, organiza
 <!-- [Team Member 2 Name] will write this section -->
 
 ## Canva
-## Canva
 
 **Canva** is an easy-to-use graphic design platform that helps students create professional-looking designs, presentations, posters, infographics, videos, and social media content. Its drag-and-drop interface and wide range of templates make it accessible even for users with little or no design experience.
 
