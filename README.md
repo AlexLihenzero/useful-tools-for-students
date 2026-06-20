@@ -65,6 +65,41 @@ Notion is a valuable tool for students because it combines note-taking, organiza
 <!-- [Team Member 2 Name] will write this section -->
 
 ## Canva
+## Canva
+
+**Canva** is an easy-to-use graphic design platform that helps students create professional-looking designs, presentations, posters, infographics, videos, and social media content. Its drag-and-drop interface and wide range of templates make it accessible even for users with little or no design experience.
+
+### Why Students Should Use It
+
+* Create visually appealing presentations for class projects.
+* Design posters, flyers, and infographics for assignments.
+* Collaborate with classmates on shared designs.
+* Access projects from any device through cloud storage.
+* Save time by using ready-made templates and design elements.
+
+### Key Features
+
+1. **Graphic Design Tools** – Create posters, flyers, infographics, social media graphics, and more.
+2. **Presentation Maker** – Design engaging presentations with animations and visual effects.
+3. **Templates** – Choose from thousands of customizable templates for academic and personal projects.
+4. **Collaboration** – Work with classmates in real time on shared designs and presentations.
+5. **Photo and Video Editing** – Edit images and videos using built-in creative tools.
+
+### How to Get Started
+
+1. Visit https://www.canva.com/.
+2. Create a free account using your email address, Google account, or other sign-in options.
+3. Browse templates or start a design from scratch.
+4. Customize your project using text, images, icons, and design elements.
+5. Save, download, or share your completed work online.
+
+### Useful Links
+
+* Canva Homepage: https://www.canva.com/
+* Canva Help Center: https://www.canva.com/help/
+* Canva Templates: https://www.canva.com/templates/
+
+Canva is a valuable tool for students because it simplifies the design process, making it easy to create high-quality visual content for academic projects, presentations, and personal creative work.
 <!-- [Team Member 3 Name] will write this section -->
 
 ## chatGPT
